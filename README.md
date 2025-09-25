@@ -20,7 +20,7 @@ VersaSlot, an efficient spatio-temporal FPGA sharing system with novel Big.Littl
 
 
 ## Citation
-If you use FaST-GShare for your research, please cite our paper [paper](https://dl.acm.org/doi/abs/10.1145/3605573.3605638):
+If you use VersaSlot for your research, please cite our paper [paper](https://ieeexplore.ieee.org/document/11132514):
 ```
 @INPROCEEDINGS{11132514,
   author={Gu, Jianfeng and Wang, Hao and Guo, Xiaorang and Schulz, Martin and Gerndt, Michael},
